@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Soheil 👋</h1>
 
-<!--
-**soheilyr/soheilyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Senior Frontend Developer · 💻 React | Next.js | TypeScript · 🇮🇷 Based in Iran
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+I'm a frontend developer focused on building fast, modern, and user-centric web & mobile applications.  
+Currently working at a crypto exchange, exploring full-stack development with **NestJS**, and building apps with **React Native**.
+
+I care about clean code, scalable architecture, and smooth UI/UX.
+
+---
+
+### 🛠 Tech Stack
+
+#### 💻 Frontend
+- **React**, **Next.js**
+- **TypeScript**
+- **Tailwind CSS**, **shadcn/ui**
+- **React Native**
+
+#### 🧠 Backend (learning)
+- **NestJS**, **PostgreSQL**, **Prisma**
+- **TypeORM**, **REST API**
+
+#### 🧰 Tools & Other
+- **Vercel**, **Nx Monorepo**, **n8n**, **GitHub Actions**
+
+
+### 📫 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/soheilyr/)
+- 📩 Email: s.yazdanyar.sy@gmail.com
+
+---
+
+<p align="center">
+  Thanks for visiting! ⭐️ Consider following me to stay updated!
+</p>
