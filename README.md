@@ -23,7 +23,7 @@ I care about clean code, scalable architecture, and smooth UI/UX.
 - **Tailwind CSS**, **shadcn/ui**
 - **React Native**
 
-#### 🧠 Backend (learning)
+#### 🧠 Backend 
 - **NestJS**, **PostgreSQL**, **Prisma**
 - **TypeORM**, **REST API**
 
